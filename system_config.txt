@@ -1,0 +1,11 @@
+# Banking System Configuration
+bank_name=Standard Bank
+interest_rate_savings=5.0
+interest_rate_cheque=2.0
+interest_rate_fixed=8.0
+interest_rate_student=3.0
+overdraft_limit=1000.00
+min_balance_savings=100.00
+min_balance_cheque=500.00
+backup_folder=data/backup
+currency=ZAR
